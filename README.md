@@ -6,8 +6,10 @@ DHIS2 also participates in Hacktoberfest with several repositories, and all of t
 ## Tickets
 Because DHIS2 typically has tickets in JIRA, we're using this Hacktoberfest repository to put all these tickets together. All tickets have links in them to the original JIRA ticket, and a link to the relevant repository, which in turn is also marked for Hacktoberfest using a `topic` as required by the rules.
 
+Keep an eye on the issues list, there will be more added later.
+
 ## Repositories
-The following DHIS2 repositories are participating this year:
+The following DHIS2 repositories are participating this year (This list can grow while October progresses)
 
 ## Contribution Guide
 Please read the [contribution guide](CONTRIBUTING.md) to understand how to contribute!
