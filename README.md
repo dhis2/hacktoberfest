@@ -16,9 +16,9 @@ Participating repositories (check back for more later) and the languages they us
 - [DHIS2 Core - JAVA](https://github.com/dhis2/dhis2-core)
 - [DHIS2 Docs - Markdown](https://github.com/dhis2/dhis2-docs)
 - [DHIS2 Developer Portal - Markdown](https://github.com/dhis2/developer-portal)
-- [DHIS2 Frontend Libraries - UI](https://github.com/dhis2/ui)
-- [DHIS2 Frontend Libraries - App Platform](https://github.com/dhis2/app-platform)
-- [DHIS2 Frontend Libraries - DataStore](https://github.com/dhis2/app-service-datastore)
+- [DHIS2 UI Library - Javascript / React](https://github.com/dhis2/ui)
+- [DHIS2 App Platform framework - Javascript / React](https://github.com/dhis2/app-platform)
+- [DHIS2 DataStore client library - Javascript / React](https://github.com/dhis2/app-service-datastore)
 
 ## Contribution Guide
 Please read the [contribution guide](CONTRIBUTING.md) to understand how to contribute!
