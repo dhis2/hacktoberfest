@@ -9,7 +9,12 @@ Because DHIS2 typically has tickets in JIRA, we're using this Hacktoberfest repo
 Keep an eye on the issues list, there will be more added later.
 
 ## Repositories
-The following DHIS2 repositories are participating this year (This list can grow while October progresses)
+Participating repositories (check back for more later) and the languages they use:
+
+- [DHIS2 Core - JAVA](https://github.com/dhis2/dhis2-core)
+- [DHIS2 Docs - Markdown](https://github.com/dhis2/dhis2-docs)
+- [DHIS2 Developer Portal - Markdown](https://github.com/dhis2/developer-portal)
+- [DHIS2 aggregate-data-entry-app - JavaScript / React](https://github.com/dhis2/aggregate-data-entry-app)
 
 ## Contribution Guide
 Please read the [contribution guide](CONTRIBUTING.md) to understand how to contribute!

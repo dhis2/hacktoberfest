@@ -19,11 +19,3 @@ Read more about these values on the [Participation page on Hacktoberfest.com](ht
 7. If all works as it should, submit a PR to the respective repository, and link this PR in the issue on this repository!
 8. Await approval! You might get feedback for some changes, it might get approved through the `hacktoberfest-accepted` label, or it might get merged right away!
 9. Do not spam or submit spammy PR's. They will not be accepted and will be reported as Spam which might exclude you from any Hacktoberfest rewards.
-
-## Repositories
-Participating repostories (check back for more later) and the languages they use:
-
-- [DHIS2 Core - JAVA](https://github.com/dhis2/dhis2-core)
-- [DHIS2 Docs - Markdown](https://github.com/dhis2/dhis2-docs)
-- [DHIS2 Developer Portal - Markdown](https://github.com/dhis2/developer-portal)
-- [DHIS2 aggregate-data-entry-app - JavaScript / React](https://github.com/dhis2/aggregate-data-entry-app)
