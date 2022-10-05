@@ -19,6 +19,7 @@ Participating repositories (check back for more later) and the languages they us
 - [DHIS2 UI Library - Javascript / React](https://github.com/dhis2/ui)
 - [DHIS2 App Platform framework - Javascript / React](https://github.com/dhis2/app-platform)
 - [DHIS2 DataStore client library - Javascript / React](https://github.com/dhis2/app-service-datastore)
+- [DHIS2 Aggregate Data Entry App - Javascript / React](https://github.com/dhis2/aggregate-data-entry-app)
 
 ## Contribution Guide
 Please read the [contribution guide](CONTRIBUTING.md) to understand how to contribute!
