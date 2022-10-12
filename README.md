@@ -1,5 +1,5 @@
 # DHIS2 Hacktoberfest
-Welcome to DHIS2 [Hacktoberfest](https://hacktoberfest.com/). A month dedicated to helping out open source projects by submitting Pull Requests (PR's) to open source projects that participate.
+Welcome to DHIS2 [Hacktoberfest](https://hacktoberfest.com/). A month dedicated to helping out open source projects by submitting Pull Requests (PRs) to open source projects that participate.
 
 DHIS2 also participates in Hacktoberfest with several repositories, and all of these are listed below. 
 
@@ -8,7 +8,7 @@ Because DHIS2 typically has tickets in JIRA, we're using this Hacktoberfest repo
 
 Keep an eye on the issues list, there will be more added later.
 
-In the meantime, you can find a [list of Jira isses labeled as potential Hacktoberfest issues here](https://dhis2.atlassian.net/issues/?jql=labels%20%3D%20%22hacktoberfest%22)
+In the meantime, you can find a [list of Jira issues labeled as potential Hacktoberfest issues here](https://dhis2.atlassian.net/issues/?jql=labels%20%3D%20%22hacktoberfest%22)
 
 ## Repositories
 Participating repositories (check back for more later) and the languages they use:
