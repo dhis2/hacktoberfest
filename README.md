@@ -1,4 +1,11 @@
 # DHIS2 Hacktoberfest
+
+Hacktoberfest has ended, but that doesn't mean the end of contributions! If you stumble upon this repository when it's not October, [join our Slack](https://join.slack.com/t/dhis2-dev-community/shared_invite/zt-1etbpwtfr-RIXs1xqTdrlM5HTmnIggZw) and speak up if you want to help out (Reach out to Rene Pot if you want a private discussion)! 
+
+Unfortunately, it's impossible to maintain a separate list of tickets here, so please check the [JIRA](https://dhis2.atlassian.net) to see if there's anything interesting.
+
+## Intro
+
 Welcome to DHIS2 [Hacktoberfest](https://hacktoberfest.com/). A month dedicated to helping out open source projects by submitting Pull Requests (PRs) to open source projects that participate.
 
 DHIS2 also participates in Hacktoberfest with several repositories, and all of these are listed below. 
